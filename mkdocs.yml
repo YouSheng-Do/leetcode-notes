@@ -1,0 +1,9 @@
+site_name: LeetCode Daily
+theme:
+  name: material
+  language: zh-TW
+
+nav:
+  - Home: index.md
+  - Daily:
+      - 2026-01: daily/2026-01/index.md
