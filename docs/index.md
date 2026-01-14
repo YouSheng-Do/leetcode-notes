@@ -1,17 +1,39 @@
-# Welcome to MkDocs
+# LeetCode Daily Notes
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+這個網站用來記錄我每天解 LeetCode 的過程與整理，包括：
 
-## Commands
+- 解題思路與關鍵觀察
+- 複雜度分析
+- 實作細節與踩雷點
+- C++ / Python 程式碼
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+所有內容皆以 **Markdown + GitHub Pages（MkDocs）** 維護，方便長期回顧與整理。
 
-## Project layout
+---
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 📅 Daily Logs
+
+### 2026-01
+- [2026-01 解題紀錄](daily/2026-01/index.md)
+
+---
+
+## 📂 解題分類
+
+- Dynamic Programming
+- Binary Search
+- Graph / Tree
+- Greedy
+- Data Structure
+- Math / Geometry
+
+---
+
+## 🔗 Links
+
+- [GitHub Repo](https://github.com/yousheng-do/leetcode-notes)
+- [LeetCode Profile](https://leetcode.com/u/aaaa95067/)
+
+---
+
+_Last updated automatically via GitHub Actions_
