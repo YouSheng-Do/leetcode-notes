@@ -11,3 +11,7 @@
 ## 2026-01-16
 
 [2975. Maximum Square Area by Removing Fences From a Field](./2026-01-16/2975.Maximum-Square-Area-by-Removing-Fences-From-a-Field.md)
+
+## 2026-01-17
+
+[3047. Find the Largest Area of Square Inside Two Rectangles](./2026-01-17/3047.Find-the-Largest-Area-of-Square-Inside-Two-Rectangles.md)
